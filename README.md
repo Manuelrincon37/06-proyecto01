@@ -14,7 +14,7 @@ Una aplicación de React para mostrar y gestionar una lista de películas.
 
    ```bash
    git clone https://github.com/manuelrincon37/movie-app
-   cd 06-projecto01
+   cd movie-app
 
 2. Instala dependencias
    ```bash
