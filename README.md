@@ -13,10 +13,15 @@ Una aplicación de React para mostrar y gestionar una lista de películas.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/manuelrincon37/06-projecto01
+   git clone https://github.com/manuelrincon37/movie-app
    cd 06-projecto01
 
 2. Instala dependencias
-  npm install
-  - para iniciar app: npm run dev
-  - para produciion npm run build
+   ```bash
+    npm install
+  - para iniciar app:
+    ```bash
+        npm run dev
+  - para produciion:
+   ``` bash
+     npm run build
